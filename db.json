@@ -1,1 +1,16 @@
-{}
+{
+    "products": [
+        {
+            "name": "Phone",
+            "price": 2000
+        },
+        {
+            "name": "Laptop",
+            "price": 4000
+        },
+        {
+            "name": "Car",
+            "price": 40000
+        }
+    ]
+}
