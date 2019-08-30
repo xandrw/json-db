@@ -14,6 +14,11 @@
             "id": 3,
             "name": "Car",
             "price": 40000
+        },
+        {
+            "id": 4,
+            "name": "House",
+            "price": 800000
         }
     ]
 }
