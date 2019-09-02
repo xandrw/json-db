@@ -19,6 +19,11 @@
             "id": 4,
             "name": "House",
             "price": 800000
+        },
+        {
+            "id": 5,
+            "name": "Land",
+            "price": 1600000
         }
     ]
 }
